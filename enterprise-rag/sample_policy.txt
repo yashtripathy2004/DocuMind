@@ -1,0 +1,16 @@
+ACME Corp Remote Work Policy
+
+1. Introduction
+Acme Corp values flexibility and productivity. This remote work policy outlines the guidelines for employees working from locations other than the primary office.
+
+2. Eligibility
+All full-time employees who have completed their 90-day probationary period are eligible to apply for remote work up to 3 days a week.
+
+3. Equipment
+Acme Corp will provide a one-time stipend of $500 for home office setup. Employees are responsible for their own internet connection.
+
+4. Communication
+Core hours are from 10:00 AM to 3:00 PM EST. During this time, all remote employees must be online and available via Slack and email.
+
+5. Security
+Employees must connect to the corporate VPN when accessing sensitive company data. Public Wi-Fi networks must not be used without the VPN.
