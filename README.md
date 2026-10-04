@@ -1,4 +1,4 @@
-# 🧠 Enterprise Knowledge Assistant (Production RAG)
+# DocuMind
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
